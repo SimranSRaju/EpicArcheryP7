@@ -1,1 +1,1 @@
-# EpicArcheryP7
+# project-C28-template
